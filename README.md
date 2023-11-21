@@ -25,6 +25,7 @@ Welcome to my CodeWars profile! 💁🏻‍♀️ Here you'll find a collection 
 - [Hello World](/Kata8/HelloWorld.js)
 - [Debug sayhello](/Kata8/DebugSayHello.js)
 - [Function Syntax debugging](/Kata8/FunctionSyntaxDebugging.js)
+- [Jenny's secret message](/Kata8/JennysSecretMessage.js)
 
 ## Kata 7 👇🏻:
 - [Even numbers in an array](/Kata7/EvenNumbersInArray.js)
