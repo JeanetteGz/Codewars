@@ -19,13 +19,13 @@ Welcome to my CodeWars profile! 👨‍💻 Here you'll find a collection of my 
   </a>
 </div>
 
-## 📚 Latest Kata Solutions
+## 📚💻 Latest Kata Solutions
 
-## Kata 8
+## Kata 8 👇🏻:
 - [Hello World](/Kata8/HelloWorld.js)
 - [Debug sayhello](/Kata8/DebugSayHello.js)
 
-## Kata 7
+## Kata 7 👇🏻:
 - [Even numbers in an array](/Kata7/EvenNumbersInArray.js)
 
 ---
