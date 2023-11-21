@@ -1,6 +1,6 @@
 # Hi there! 👋🏻 I'm [Jeanette Gonzalez👩🏻‍💻](https://www.codewars.com/users/Your_Username)
 
-Welcome to my CodeWars profile! 👨‍💻 Here you'll find a collection of my solutions to various coding challenges. I enjoy tackling algorithmic problems to sharpen my problem-solving skills.
+Welcome to my CodeWars profile! 💁🏻‍♀️ Here you'll find a collection of my solutions to various coding challenges. I enjoy tackling algorithmic problems to sharpen my problem-solving skills.
 
 ## 🚀 Skills and Achievements
 
@@ -32,4 +32,4 @@ Welcome to my CodeWars profile! 👨‍💻 Here you'll find a collection of my 
 
 Feel free to explore my CodeWars profile to discover more solutions and insights into my coding journey. If you have any questions or suggestions, don't hesitate to reach out! 📬
 
-Happy coding! 🚀
+Happy coding! 🚀🧠
