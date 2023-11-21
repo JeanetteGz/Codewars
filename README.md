@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name](https://www.codewars.com/users/Your_Username)
+# Hi there! 👋 I'm [Jeanette Gonzalez](https://www.codewars.com/users/Your_Username)
 
 Welcome to my CodeWars profile! 👨‍💻 Here you'll find a collection of my solutions to various coding challenges. I enjoy tackling algorithmic problems to sharpen my problem-solving skills.
 
@@ -6,7 +6,6 @@ Welcome to my CodeWars profile! 👨‍💻 Here you'll find a collection of my 
 
 - **Languages:** Python, JavaScript
 - **Overall Rank:** [Your Overall Rank](https://www.codewars.com/users/_Jen_)
-- **Kata Completed:** [Your Kata Completed](https://www.codewars.com/users/_Jen_/completed)
 
 ## 📈 CodeWars Stats
 
@@ -14,7 +13,11 @@ Welcome to my CodeWars profile! 👨‍💻 Here you'll find a collection of my 
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jeanetteglz/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/jeanetteglz/">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="LinkedIn Profile" width="200" height="auto">
+  </a>
+</div>
 
 ## 📚 Latest Kata Solutions
 
