@@ -21,6 +21,10 @@ Welcome to my CodeWars profile! 👨‍💻 Here you'll find a collection of my 
 
 ## 📚 Latest Kata Solutions
 
+- **Kata 8:**
+
+
+- **Kata 7:**
 - [Even numbers in an array](/Kata7/EvenNumbers.js)
 
 
