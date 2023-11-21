@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Jeanette Gonzalez](https://www.codewars.com/users/Your_Username)
+# Hi there! 👋🏻 I'm [Jeanette Gonzalez👩🏻‍💻](https://www.codewars.com/users/Your_Username)
 
 Welcome to my CodeWars profile! 👨‍💻 Here you'll find a collection of my solutions to various coding challenges. I enjoy tackling algorithmic problems to sharpen my problem-solving skills.
 
