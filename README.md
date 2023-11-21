@@ -21,11 +21,11 @@ Welcome to my CodeWars profile! 👨‍💻 Here you'll find a collection of my 
 
 ## 📚 Latest Kata Solutions
 
-- **Kata 8:**
+## Kata 8
 
 
-- **Kata 7:**
-[Even numbers in an array](/Kata7/EvenNumbers.js)
+## Kata 7
+- [Even numbers in an array](/Kata7/EvenNumbers.js)
 
 
 Feel free to explore my CodeWars profile to discover more solutions and insights into my coding journey. If you have any questions or suggestions, don't hesitate to reach out! 📬
