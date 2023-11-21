@@ -25,7 +25,7 @@ Welcome to my CodeWars profile! 👨‍💻 Here you'll find a collection of my 
 
 
 - **Kata 7:**
-- [Even numbers in an array](/Kata7/EvenNumbers.js)
+[Even numbers in an array](/Kata7/EvenNumbers.js)
 
 
 Feel free to explore my CodeWars profile to discover more solutions and insights into my coding journey. If you have any questions or suggestions, don't hesitate to reach out! 📬
