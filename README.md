@@ -29,6 +29,7 @@ Welcome to my CodeWars profile! 💁🏻‍♀️ Here you'll find a collection 
 - [Combine Strings](/Kata8/CombineStrings.js)
 - [If/else syntax](/Kata8/ifElseSyntaxDebug.js)
 - [Variable Assignment Debug](/Kata8/VariableAssignmentDebug.js)
+- [Messi Goals](/Kata8/MessiGoalTotal.js)
 
 ## Kata 7 👇🏻:
 - [Even numbers in an array](/Kata7/EvenNumbersInArray.js)
