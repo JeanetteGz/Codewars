@@ -27,6 +27,7 @@ Welcome to my CodeWars profile! 💁🏻‍♀️ Here you'll find a collection 
 - [Function Syntax debugging](/Kata8/FunctionSyntaxDebugging.js)
 - [Jenny's secret message](/Kata8/JennysSecretMessage.js)
 - [Combine Strings](/Kata8/CombineStrings.js)
+- [If/else syntax](/Kata8/ifElseSyntaxDebug.js)
 
 ## Kata 7 👇🏻:
 - [Even numbers in an array](/Kata7/EvenNumbersInArray.js)
