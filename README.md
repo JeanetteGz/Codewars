@@ -35,6 +35,7 @@ Welcome to my CodeWars profile! 💁🏻‍♀️ Here you'll find a collection 
 ## Kata 7 👇🏻:
 - [Even numbers in an array](/Kata7/EvenNumbersInArray.js)
 - [Credit Card Mask](/Kata7/CreditCardMask.js)
+- [Alphabetical Addition](/Kata7/AlphabeticalAddition.js)
 
 ---
 

@@ -17,28 +17,28 @@ addLetters() = 'z' */
 function addLetters(...letters) {
 
     // Check If  no letters then its Z
-    if (letters.length === 0){
-      return 'z'
+    if (letters.length === 0) {
+        return 'z'
     }
     // 
     const getLetterValue = letter => letter.charCodeAt(0) - 'a'.charCodeAt(0) + 1
-  
+
     let totalSum = 0
-    for(let i = 0; i < letters.length; i++){
-      totalSum += getLetterValue(letters[i])
+    for (let i = 0; i < letters.length; i++) {
+        totalSum += getLetterValue(letters[i])
     }
     totalSum = (totalSum - 1) % 26 + 1;
-    
+
     let result = " "
-    for (let i = 0; i < letters.concat.length; i++){
-      result = String.fromCharCode('a'.charCodeAt(0) + totalSum - 1)
+    for (let i = 0; i < letters.concat.length; i++) {
+        result = String.fromCharCode('a'.charCodeAt(0) + totalSum - 1)
     }
     return result
-  }
-  
-  console.log(addLetters('a', 'b', 'c'))
-  console.log(addLetters('a', 'b'))
-  console.log(addLetters('z'))
-  console.log(addLetters('z', 'a'))
-  console.log(addLetters('y', 'c', 'b'))
-  console.log(addLetters())
+}
+
+console.log(addLetters('a', 'b', 'c'))
+console.log(addLetters('a', 'b'))
+console.log(addLetters('z'))
+console.log(addLetters('z', 'a'))
+console.log(addLetters('y', 'c', 'b'))
+console.log(addLetters())
